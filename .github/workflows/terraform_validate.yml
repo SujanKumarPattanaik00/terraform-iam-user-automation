@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - project7-terraform-ci
   pull_request:
     branches:
       - main
